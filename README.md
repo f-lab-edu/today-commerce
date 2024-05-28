@@ -8,6 +8,7 @@
 ## 기술스택
 
 ## 화면 설계(수정중)
+https://ovenapp.io/view/HfsBFjUWcqI3xjjL73UWGHlVKyCyolNo/
 
 ## DB ERD
 
