@@ -6,11 +6,20 @@
 ## 프로젝트 목표
 
 ## 기술스택
+- Java
+- JDK 17
+- Gradle
+- Spring Boot
+- MySQL
+- JPA
 
 ## 화면 설계(수정중)
 https://ovenapp.io/view/HfsBFjUWcqI3xjjL73UWGHlVKyCyolNo/
 
-## DB ERD
+## DB ERD(수정중)
+- URL : https://aquerytool.com/aquerymain/index/?rurl=775e54f2-4d97-4a6b-8a30-24579002aee6&
+- Password : lbz1xr
+<img src="https://github.com/f-lab-edu/today-commerce/assets/34434298/4b43b049-5e32-45fc-8bcd-0cb23afaefe4"/>
 
 ## API 설계
 
