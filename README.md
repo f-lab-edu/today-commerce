@@ -19,7 +19,7 @@ https://ovenapp.io/view/HfsBFjUWcqI3xjjL73UWGHlVKyCyolNo/
 ## DB ERD(수정중)
 - URL : https://aquerytool.com/aquerymain/index/?rurl=775e54f2-4d97-4a6b-8a30-24579002aee6&
 - Password : lbz1xr
-<img src="https://github.com/f-lab-edu/today-commerce/assets/34434298/4b43b049-5e32-45fc-8bcd-0cb23afaefe4"/>
+<img src="https://github.com/f-lab-edu/today-commerce/assets/34434298/3f1ee4c8-c069-4ef4-99d6-ce57005e89e3"/>
 
 ## API 설계
 
